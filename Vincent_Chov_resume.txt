@@ -23,7 +23,7 @@ TECHNICAL SKILLS
 RELEVANT EXPERIENCE
 ===================
 
-SOFTWARE ENGINEER\
+<span>*SOFTWARE ENGINEER*</span>\
 Parametric Solutions, Inc. (PSI), Hartford, CT JUNE 2017 - PRESENT
 
 -   Save the Quality department hours of manual work per week by writing
@@ -38,7 +38,7 @@ Parametric Solutions, Inc. (PSI), Hartford, CT JUNE 2017 - PRESENT
 -   Serve as communication intermediary between project managers and the
     off-site IT team.
 
-FULL STACK DEVELOPER\
+<span>*FULL STACK DEVELOPER*</span>\
 Hartford Underground, Hartford, CT JANUARY 2017 - PRESENT
 
 -   Introduced PHP templating to maintain consistency of information
@@ -46,7 +46,7 @@ Hartford Underground, Hartford, CT JANUARY 2017 - PRESENT
 
 -   Used responsive design to make their website mobile-friendly.
 
-WEB DEVELOPER\
+<span>*WEB DEVELOPER*</span>\
 Connecticut Gubernatorial Campaign, Hartford, CT NOVEMBER 2017 -
 FEBRUARY 2018
 
@@ -56,7 +56,7 @@ FEBRUARY 2018
 -   Provided consulting with their affiliated PR firm to seek campaign
     materials for the website.
 
-REPOSITORY MAINTAINER\
+<span>*REPOSITORY MAINTAINER*</span>\
 AMVernon Machine Learning Calendar, Hartford, CT AUGUST 2017
 
 -   Used Naive Bayes Classification to generate Google Calendar events
@@ -68,7 +68,7 @@ AMVernon Machine Learning Calendar, Hartford, CT AUGUST 2017
 -   Packaged and published on the Python Package Index (PyPI) for use as
     both a script and a library.
 
-LINUX AND PYTHON INSTRUCTOR\
+<span>*LINUX AND PYTHON INSTRUCTOR*</span>\
 Fairfield Warde High School, Fairfield, CT MAY 2017
 
 -   Taught an introductory course on how to use a Linux Terminal as well
@@ -80,7 +80,7 @@ Fairfield Warde High School, Fairfield, CT MAY 2017
 -   Offered course materials and exercises on my personal course website
     using Moodle.
 
-ANDROID DEVELOPER\
+<span>*ANDROID DEVELOPER*</span>\
 Android Security Risk Assessment, Storrs, CT AUGUST 2016 - MAY 2017
 
 -   Wrote the Android client to interface with a Flask REST API hosted
