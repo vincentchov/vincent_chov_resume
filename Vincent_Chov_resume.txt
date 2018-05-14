@@ -2,7 +2,7 @@
 address: |
     (203) 543-3274 $\bullet$ vincent.chov@uconn.edu $\bullet$
     vincentchov.com/github
-...
+---
 
 EDUCATION
 =========
