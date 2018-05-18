@@ -1,14 +1,19 @@
----
-address: |
-    (203) 543-3274 $\bullet$ vincent.chov@uconn.edu $\bullet$
-    vincentchov.com/github
----
+CONTACT INFORMATION
+===================
+
+Vincent Chov
+(203) 543-3274
+vincent.chov@uconn.edu
+vincentchov.com/github
+
 
 EDUCATION
 =========
 
-UNIVERSITY OF CONNECTICUT, Storrs, CT MAY 2017\
+UNIVERSITY OF CONNECTICUT, Storrs, CT
+MAY 2017
 B.S.E. Computer Science and Engineering
+
 
 TECHNICAL SKILLS
 ================
@@ -17,81 +22,54 @@ TECHNICAL SKILLS
   LANGUAGES:           Coconut, CSS, HTML, Java, JavaScript (Node.js), Python
   FREQUENTLY USED:     Bash (Linux), Bootstrap, Django, Flask, Git, JQuery, MySQL, WordPress
   WORKING KNOWLEDGE:   Android, Microsoft SQL Server, Mercurial, Pandas, Selenium
-  EXPOSED TO / USED:   C, C\#, Docker, Go, Haskell, MongoDB, Redis, Standard ML
+  EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, MongoDB, Redis, Standard ML
   -------------------- -----------------------------------------------------------------------
 
 RELEVANT EXPERIENCE
 ===================
 
-<span>*SOFTWARE ENGINEER*</span>\
-Parametric Solutions, Inc. (PSI), Hartford, CT JUNE 2017 - PRESENT
+SOFTWARE ENGINEER
+Parametric Solutions, Inc. (PSI), Hartford, CT
+JUNE 2017 - PRESENT
+  - Save the Quality department hours of manual work per week by writing SQL views and pivot tables.
+  - Perform database migrations to use SQL Server and integrate a React Native timesheet application.
+  - Automate data analysis on the health of Pratt & Whitney engine test facilities.
+  - Serve as communication intermediary between project managers and the off-site IT team.
 
--   Save the Quality department hours of manual work per week by writing
-    SQL views and pivot tables.
+FULL STACK DEVELOPER
+Hartford Underground, Hartford, CT
+JANUARY 2017 - PRESENT
+  - Introduced PHP templating to maintain consistency of information across the website.
+  - Used responsive design to make their website mobile-friendly.
 
--   Perform database migrations to use SQL Server and integrate a React
-    Native timesheet application.
+WEB DEVELOPER
+Connecticut Gubernatorial Campaign, Hartford, CT
+NOVEMBER 2017 - FEBRUARY 2018
+  - Rewrote the website for the candidate’s running mate with a static site and provide ongoing support.
+  - Provided consulting with their affiliated PR firm to seek campaign materials for the website.
 
--   Automate data analysis on the health of Pratt & Whitney engine
-    test facilities.
+REPOSITORY MAINTAINER
+AMVernon Machine Learning Calendar, Hartford, CT
+AUGUST 2017
+  - Used Naive Bayes Classification to generate Google Calendar events from a printable event calendar.
+  - Serialized events using Machine Learning, Regular Expressions, and Approximate String Matching.
+  - Packaged and published on the Python Package Index (PyPI) for use as both a script and a library.
 
--   Serve as communication intermediary between project managers and the
-    off-site IT team.
+LINUX AND PYTHON INSTRUCTOR
+Fairfield Warde High School, Fairfield, CT
+MAY 2017
+  - Taught an introductory course on how to use a Linux Terminal as well as how to program in Python.
+  - Provided ongoing support to students who wish to apply their new skills at a hackathon.
+  - Offered course materials and exercises on my personal course website using Moodle.
 
-<span>*FULL STACK DEVELOPER*</span>\
-Hartford Underground, Hartford, CT JANUARY 2017 - PRESENT
+ANDROID DEVELOPER
+Android Security Risk Assessment, Storrs, CT
+AUGUST 2016 - MAY 2017
+  - Wrote the Android client to interface with a Flask REST API hosted on an Nginx/Gunicorn server.
+  - Configured Celery and Redis to enable the use of asynchronous tasks and enable greater concurrency.
 
--   Introduced PHP templating to maintain consistency of information
-    across the website.
-
--   Used responsive design to make their website mobile-friendly.
-
-<span>*WEB DEVELOPER*</span>\
-Connecticut Gubernatorial Campaign, Hartford, CT NOVEMBER 2017 -
-FEBRUARY 2018
-
--   Rewrote the website for the candidate’s running mate with a static
-    site and provide ongoing support.
-
--   Provided consulting with their affiliated PR firm to seek campaign
-    materials for the website.
-
-<span>*REPOSITORY MAINTAINER*</span>\
-AMVernon Machine Learning Calendar, Hartford, CT AUGUST 2017
-
--   Used Naive Bayes Classification to generate Google Calendar events
-    from a printable event calendar.
-
--   Serialized events using Machine Learning, Regular Expressions, and
-    Approximate String Matching.
-
--   Packaged and published on the Python Package Index (PyPI) for use as
-    both a script and a library.
-
-<span>*LINUX AND PYTHON INSTRUCTOR*</span>\
-Fairfield Warde High School, Fairfield, CT MAY 2017
-
--   Taught an introductory course on how to use a Linux Terminal as well
-    as how to program in Python.
-
--   Provided ongoing support to students who wish to apply their new
-    skills at a hackathon.
-
--   Offered course materials and exercises on my personal course website
-    using Moodle.
-
-<span>*ANDROID DEVELOPER*</span>\
-Android Security Risk Assessment, Storrs, CT AUGUST 2016 - MAY 2017
-
--   Wrote the Android client to interface with a Flask REST API hosted
-    on an Nginx/Gunicorn server.
-
--   Configured Celery and Redis to enable the use of asynchronous tasks
-    and enable greater concurrency.
 
 HELPFUL LINKS
 =============
 
-``` {.python language="Python"}
-links = ['vincentchov.com/{x}'.format(x) for x in ['resume', 'github', 'linkedin']]
-```
+links = ['vincentchov.com/resume', 'vincentchov.com/github', 'vincentchov.com/linkedin']
