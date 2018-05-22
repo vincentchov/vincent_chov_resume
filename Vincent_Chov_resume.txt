@@ -72,4 +72,4 @@ AUGUST 2016 - MAY 2017
 HELPFUL LINKS
 =============
 
-links = ['vincentchov.com/resume', 'vincentchov.com/github', 'vincentchov.com/linkedin']
+links = [f'vincentchov.com/{page}' for page in ['resume', 'github', 'linkedin']]
