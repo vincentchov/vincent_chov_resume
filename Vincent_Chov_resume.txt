@@ -28,6 +28,12 @@ TECHNICAL SKILLS
 RELEVANT EXPERIENCE
 ===================
 
+SOFTWARE DEVELOPER (REMOTE VOLUNTEER)
+Politics Reborn, New York City, NY
+FEBRUARY 2018 - PRESENT
+  - Designed, developed, and delivered a matchmaking application to rank the compatibility of volunteers.
+  - Streamlined the process of matching potential volunteers with each other based on their political priorities.
+
 SOFTWARE ENGINEER
 Parametric Solutions, Inc. (PSI), Hartford, CT
 JUNE 2017 - PRESENT
@@ -42,15 +48,9 @@ JANUARY 2017 - PRESENT
   - Introduced PHP templating to maintain consistency of information across the website.
   - Used responsive design to make their website mobile-friendly.
 
-WEB DEVELOPER
-Connecticut Gubernatorial Campaign, Hartford, CT
-NOVEMBER 2017 - FEBRUARY 2018
-  - Rewrote the website for the candidate’s running mate with a static site and provide ongoing support.
-  - Provided consulting with their affiliated PR firm to seek campaign materials for the website.
-
-REPOSITORY MAINTAINER
+PYTHON DEVELOPER
 AMVernon Machine Learning Calendar, Hartford, CT
-AUGUST 2017
+AUGUST 2017 - PRESENT
   - Used Naive Bayes Classification to generate Google Calendar events from a printable event calendar.
   - Serialized events using Machine Learning, Regular Expressions, and Approximate String Matching.
   - Packaged and published on the Python Package Index (PyPI) for use as both a script and a library.
