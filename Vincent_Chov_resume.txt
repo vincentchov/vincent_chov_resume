@@ -37,7 +37,7 @@ FEBRUARY 2018 - PRESENT
 SOFTWARE ENGINEER
 Parametric Solutions, Inc. (PSI), Hartford, CT
 JUNE 2017 - PRESENT
-  - Save the Quality department hours of manual work per week by writing SQL views and pivot tables.
+  - Save the Quality department over $20,000 of manual reporting by writing SQL views and pivot tables.
   - Perform database migrations to use SQL Server and integrate a React Native timesheet application.
   - Automate data analysis on the health of Pratt & Whitney engine test facilities.
   - Serve as communication intermediary between project managers and the off-site IT team.
