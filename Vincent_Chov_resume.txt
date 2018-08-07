@@ -67,4 +67,7 @@ MAY 2017
 HELPFUL LINKS
 =============
 
-links = [f'vincentchov.com/{page}' for page in ['resume', 'github', 'linkedin']]
+links = [
+    f'vincentchov.com/{page}'
+    for page in ['resume', 'github', 'linkedin']
+]
