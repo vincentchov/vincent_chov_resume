@@ -18,21 +18,14 @@ B.S.E. Computer Science and Engineering
 TECHNICAL SKILLS
 ================
 
-  -------------------- -----------------------------------------------------------------------
   LANGUAGES:           Coconut, CSS, HTML, Java, JavaScript (Node.js), Python
   FREQUENTLY USED:     Bash (Linux), Bootstrap, Django, Flask, Git, JQuery, MySQL, WordPress
   WORKING KNOWLEDGE:   Android, Microsoft SQL Server, Mercurial, Pandas, Selenium
   EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, MongoDB, Redis, Standard ML
-  -------------------- -----------------------------------------------------------------------
 
 RELEVANT EXPERIENCE
 ===================
 
-SOFTWARE DEVELOPER (REMOTE VOLUNTEER)
-Politics Reborn, New York City, NY
-FEBRUARY 2018 - PRESENT
-  - Designed, developed, and delivered a matchmaking application to rank volunteer compatibility.
-  - Streamlined the process of matching potential volunteers based on their political priorities.
 
 SOFTWARE ENGINEER
 Parametric Solutions, Inc. (PSI), Hartford, CT
@@ -50,7 +43,18 @@ JANUARY 2017 - PRESENT
   - Used responsive design to make their website mobile-friendly.
   - Wrote web crawler to automate event coordination process.
 
-PYTHON DEVELOPER
+
+CONTRACT/SHORT-TERM EXPERIENCE
+
+==============================
+
+SOFTWARE DEVELOPER (REMOTE VOLUNTEER)
+Politics Reborn, New York City, NY
+FEBRUARY 2018 - MAY 2018
+  - Designed, developed, and delivered a matchmaking application to rank volunteer compatibility.
+  - Streamlined the process of matching potential volunteers based on their political priorities.
+
+PYTHON DEVELOPER / MAINTAINER
 AMVernon Machine Learning Calendar, Hartford, CT
 AUGUST 2017 - PRESENT
   - Used Naive Bayes Classification to generate Google Calendar events from a printable event calendar.
@@ -67,7 +71,6 @@ MAY 2017
 HELPFUL LINKS
 =============
 
-links = [
-    f'vincentchov.com/{page}'
-    for page in ['resume', 'github', 'linkedin']
-]
+http://vincentchov.com/resume
+http://vincentchov.com/github
+http://vincentchov.com/linkedin
