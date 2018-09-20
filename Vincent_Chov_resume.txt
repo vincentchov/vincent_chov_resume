@@ -18,10 +18,10 @@ B.S.E. Computer Science and Engineering
 TECHNICAL SKILLS
 ================
 
-  LANGUAGES:           Coconut, CSS, HTML, Java, JavaScript (Node.js), Python
-  FREQUENTLY USED:     Bash (Linux), Bootstrap, Django, Flask, Git, JQuery, MySQL, WordPress
-  WORKING KNOWLEDGE:   Android, Microsoft SQL Server, Mercurial, Pandas, Selenium
-  EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, MongoDB, Redis, Standard ML
+  LANGUAGES:           Bash, Coconut, CSS, HTML, Java, JavaScript (Node.js), Python
+  FREQUENTLY USED:     Bootstrap, Cisco WebEx, Flask, Git, JQuery, Linux, MySQL, SQL Server
+  WORKING KNOWLEDGE:   Android, Django, Mercurial, Pandas, Selenium, WordPress
+  EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, Kubernetes, MongoDB, Redis, Standard ML
 
 RELEVANT EXPERIENCE
 ===================
@@ -37,25 +37,25 @@ JUNE 2017 - PRESENT
   - Office Manager who helps maintain and educate colleagues on the security procedure.
 
 FULL STACK DEVELOPER
-Hartford Underground, Hartford, CT
+Hartford Underground, Remote
 JANUARY 2017 - PRESENT
   - Introduced PHP templating to maintain consistency of information across the website.
   - Used responsive design to make their website mobile-friendly.
-  - Wrote web crawler to automate event coordination process.
+  - Wrote web crawler to automate Swing dance event coordination process.
 
 
 CONTRACT/SHORT-TERM EXPERIENCE
 
 ==============================
 
-SOFTWARE DEVELOPER (REMOTE VOLUNTEER)
-Politics Reborn, New York City, NY
+SOFTWARE DEVELOPER (VOLUNTEER)
+Politics Reborn, Remote
 FEBRUARY 2018 - MAY 2018
   - Designed, developed, and delivered a matchmaking application to rank volunteer compatibility.
-  - Streamlined the process of matching potential volunteers based on their political priorities.
+  - Encouraged civic engagement by streamlining the process of matching potential volunteers.
 
-PYTHON DEVELOPER / MAINTAINER
-AMVernon Machine Learning Calendar, Hartford, CT
+PYTHON DEVELOPER / REPOSITORY MAINTAINER
+AMVernon Machine Learning Calendar, Remote
 AUGUST 2017 - PRESENT
   - Used Naive Bayes Classification to generate Google Calendar events from a printable event calendar.
   - Serialized events using Machine Learning, Regular Expressions, and Approximate String Matching.
@@ -65,7 +65,7 @@ LINUX AND PYTHON INSTRUCTOR
 Fairfield Warde High School, Fairfield, CT
 MAY 2017
   - Taught an introductory course on how to use a Linux Terminal as well as how to program in Python.
-  - Provided ongoing support to students who wish to apply their new skills at a hackathon.
+  - Supported potential Computer Science students who sought guidance in their learning path.
 
 
 HELPFUL LINKS
