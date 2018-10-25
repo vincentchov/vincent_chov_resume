@@ -30,35 +30,27 @@ RELEVANT EXPERIENCE
 SOFTWARE ENGINEER
 Parametric Solutions, Inc. (PSI), Hartford, CT
 JUNE 2017 - PRESENT
-  - Save the Quality department over $20,000 of manual reporting by writing SQL views and pivot tables.
+  - Save the Quality department over $20,000 through automation of generating metrics.
   - Perform database migrations to use SQL Server and integrate a React Native timesheet application.
+  - Serve as communication intermediary between project manager and the Florida IT team.
   - Automate data analysis on the health of Pratt & Whitney engine test facilities.
-  - Serve as communication intermediary between project managers and the off-site IT team.
-  - Office Manager who helps maintain and educate colleagues on the security procedure.
 
-FULL STACK DEVELOPER
-Hartford Underground, Remote
-JANUARY 2017 - PRESENT
-  - Introduced PHP templating to maintain consistency of information across the website.
-  - Used responsive design to make their website mobile-friendly.
-  - Wrote web crawler to automate Swing dance event coordination process.
+OFFICE MANAGER (PART-TIME)
+Parametric Solutions, Inc. (PSI), Hartford, CT
+JUNE 2017 - PRESENT
+  - Assist project manager in taking inventory, data entry, and scheduling visits.
+  - Perform MK Denial background checks on potential visitors.
+  - Aid in training employees by writing informative work instructions.
 
 
 CONTRACT/SHORT-TERM EXPERIENCE
 
 ==============================
 
-SOFTWARE DEVELOPER (VOLUNTEER)
-Politics Reborn, Remote
-FEBRUARY 2018 - MAY 2018
-  - Designed, developed, and delivered a matchmaking application to rank volunteer compatibility.
-  - Encouraged civic engagement by streamlining the process of matching potential volunteers.
-
 PYTHON DEVELOPER / REPOSITORY MAINTAINER
 AMVernon Machine Learning Calendar, Remote
 AUGUST 2017 - PRESENT
   - Used Naive Bayes Classification to generate Google Calendar events from a printable event calendar.
-  - Serialized events using Machine Learning, Regular Expressions, and Approximate String Matching.
   - Packaged and published on the Python Package Index (PyPI) for use as both a script and a library.
 
 LINUX AND PYTHON INSTRUCTOR
