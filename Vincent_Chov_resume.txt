@@ -21,7 +21,7 @@ TECHNICAL SKILLS
   LANGUAGES:           Bash, Coconut, CSS, HTML, Java, JavaScript (Node.js), Python
   FREQUENTLY USED:     Bootstrap, Cisco WebEx, Flask, Git, JQuery, Linux, MySQL, SQL Server
   WORKING KNOWLEDGE:   Android, Django, Mercurial, Pandas, Selenium, WordPress
-  EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, Kubernetes, MongoDB, Redis, Standard ML
+  EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, Kubernetes, MongoDB, Redis, SocketIO
 
 RELEVANT EXPERIENCE
 ===================
@@ -37,21 +37,22 @@ JUNE 2017 - PRESENT
 
 OFFICE MANAGER (PART-TIME)
 Parametric Solutions, Inc. (PSI), Hartford, CT
-JUNE 2017 - PRESENT
+ 
   - Assist project manager in taking inventory, data entry, and scheduling visits.
   - Perform MK Denial background checks on potential visitors.
   - Aid in training employees by writing informative work instructions.
 
 
-CONTRACT/SHORT-TERM EXPERIENCE
+CONTRACT/PROJECT/VOLUNTEER EXPERIENCE
 
 ==============================
 
-PYTHON DEVELOPER / REPOSITORY MAINTAINER
-AMVernon Machine Learning Calendar, Remote
-AUGUST 2017 - PRESENT
-  - Used Naive Bayes Classification to generate Google Calendar events from a printable event calendar.
-  - Packaged and published on the Python Package Index (PyPI) for use as both a script and a library.
+ANDROID/JAVA DEVELOPER
+Android Security Risk Assessment (Senior Design Project), Storrs, CT
+AUGUST 2016 - MAY 2017
+  - Wrote the Android client using Java to interface with a Flask API hosted on an Nginx/Gunicorn server.
+  - Configured Celery and Redis to asynchronously run the Java-based testing algorithm.
+  - Published the application on the Google Play store.
 
 LINUX AND PYTHON INSTRUCTOR
 Fairfield Warde High School, Fairfield, CT
