@@ -31,9 +31,9 @@ SOFTWARE ENGINEER
 Parametric Solutions, Inc. (PSI), Hartford, CT
 JUNE 2017 - PRESENT
   - Save the Quality department over $20,000 through automation of generating metrics.
-  - Perform database migrations to use SQL Server and integrate a React Native timesheet application.
-  - Serve as communication intermediary between project manager and the Florida IT team.
-  - Automate data analysis on the health of Pratt & Whitney engine test facilities.
+  - Perform database migrations to use SQL Server and create a temporary Python/Flask front-end.
+  - Package and deploy Python applications using PyInstaller and the Fabric build automation tool.
+  - Automate data analysis on the health of Pratt & Whitney engine test facilities using Python/Pandas.
 
 OFFICE MANAGER (PART-TIME)
 Parametric Solutions, Inc. (PSI), Hartford, CT
