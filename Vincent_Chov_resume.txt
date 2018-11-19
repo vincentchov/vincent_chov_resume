@@ -21,7 +21,7 @@ TECHNICAL SKILLS
   LANGUAGES:           Bash, Coconut, CSS, HTML, Java, JavaScript (Node.js), Python
   FREQUENTLY USED:     Bootstrap, Cisco WebEx, Flask, Git, JQuery, Linux, MySQL, SQL Server
   WORKING KNOWLEDGE:   Android, Django, Mercurial, Pandas, Selenium, WordPress
-  EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, Kubernetes, MongoDB, Redis, SocketIO
+  EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, Kubernetes, MongoDB, Redis, Standard ML
 
 RELEVANT EXPERIENCE
 ===================
@@ -46,12 +46,12 @@ Parametric Solutions, Inc. (PSI), Hartford, CT
 PROJECT/VOLUNTEER EXPERIENCE
 ============================
 
-ANDROID/JAVA DEVELOPER
-Android Security Risk Assessment (Senior Design Project), Storrs, CT
-AUGUST 2016 - MAY 2017
-  - Wrote the Android client using Java to interface with a Flask API hosted on an Nginx/Gunicorn server.
-  - Configured Celery and Redis to asynchronously run the Java-based testing algorithm.
-  - Published the application on the Google Play store.
+FULL STACK DEVELOPER
+Hartford Underground, Remote
+JANUARY 2017 - PRESENT
+  - Introduced PHP templating to maintain consistency of information across the website.
+  - Used responsive design to make their website mobile-friendly.
+  - Wrote web crawler to automate Swing dance event coordination process.
 
 LINUX AND PYTHON INSTRUCTOR
 Fairfield Warde High School, Fairfield, CT
