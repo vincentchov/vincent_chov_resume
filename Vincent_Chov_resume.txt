@@ -12,38 +12,37 @@ EDUCATION
 
 UNIVERSITY OF CONNECTICUT, Storrs, CT
 MAY 2017
-B.S.E. Computer Science and Engineering
+Bachelor of Science in Engineering, Computer Science and Engineering
 
 HARVARD UNIVERSITY, EXTENSION SCHOOL, Cambridge, MA
 JANUARY 2019 - PRESENT
-Non-degree with intent to obtain Master of Liberal Arts in Software Engineering
+Non-degree with intent to apply courses towards Master of Liberal Arts, Software Engineering
 
 TECHNICAL SKILLS
 ================
 
-  LANGUAGES:           Bash, Coconut, CSS, HTML, Java, JavaScript (Node.js), Python
-  FREQUENTLY USED:     Bootstrap, Cisco WebEx, Flask, Git, JQuery, Linux, MySQL, SQL Server
-  WORKING KNOWLEDGE:   Android, Django, Mercurial, Pandas, Selenium, WordPress
-  EXPOSED TO / USED:   C, C#, Docker, Go, Haskell, Kubernetes, MongoDB, Redis, Standard ML
+  LANGUAGES:           Python, Java, JavaScript (Node.js), Bash, CSS, HTML
+  FREQUENTLY USED:     Linux, MySQL, Git, Flask, Bootstrap, Cisco WebEx, JQuery, SQL Server
+  WORKING KNOWLEDGE:   Android, Django, Selenium, Mercurial, Pandas, WordPress
+  EXPOSED TO / USED:   Docker, C, C#, Haskell, Kubernetes, MongoDB, Redis
 
-RELEVANT EXPERIENCE
-===================
+PROFESSIONAL EXPERIENCE
+=======================
 
 
 SOFTWARE ENGINEER
 Parametric Solutions, Inc. (PSI), Hartford, CT
 JUNE 2017 - PRESENT
-  - Save the Quality department over $20,000 through automation of generating metrics.
+  - Saved the QA department over $20,000 through automation of generating metrics.
   - Perform database migrations to use SQL Server and create a temporary Python/Flask front-end.
-  - Package and deploy Python applications using PyInstaller and the Fabric build automation tool.
-  - Automate data analysis on the health of Pratt & Whitney engine test facilities using Python/Pandas.
+  - Package and deliver Python applications using PyInstaller and the Fabric build automation tool.
 
 OFFICE MANAGER (PART-TIME)
 Parametric Solutions, Inc. (PSI), Hartford, CT
  
-  - Assist project manager in taking inventory, data entry, and scheduling visits.
-  - Perform MK Denial background checks on potential visitors.
-  - Aid in training employees by writing informative work instructions.
+  - Perform data entry, take inventory, and schedule visits to assist the Project Manager.
+  - Execute the security policy though MK Denial background checks on potential visitors.
+  - Write informative work instructions to more efficiently train colleagues.
 
 
 PROJECT/VOLUNTEER EXPERIENCE
@@ -52,9 +51,9 @@ PROJECT/VOLUNTEER EXPERIENCE
 FULL STACK DEVELOPER
 Hartford Underground, Remote
 JANUARY 2017 - PRESENT
+  - Improved Swing dance event coordination process by writing a web crawler with Selenium.
   - Introduced PHP templating to maintain consistency of information across the website.
-  - Used responsive design to make their website mobile-friendly.
-  - Wrote web crawler to automate Swing dance event coordination process.
+  - Made their website mobile-friendly using responsive design.
 
 
 HELPFUL LINKS
