@@ -14,6 +14,9 @@ UNIVERSITY OF CONNECTICUT, Storrs, CT
 MAY 2017
 B.S.E. Computer Science and Engineering
 
+HARVARD UNIVERSITY, EXTENSION SCHOOL, Cambridge, MA
+JANUARY 2019 - PRESENT
+Non-degree with intent to obtain Master of Liberal Arts in Software Engineering
 
 TECHNICAL SKILLS
 ================
@@ -52,12 +55,6 @@ JANUARY 2017 - PRESENT
   - Introduced PHP templating to maintain consistency of information across the website.
   - Used responsive design to make their website mobile-friendly.
   - Wrote web crawler to automate Swing dance event coordination process.
-
-LINUX AND PYTHON INSTRUCTOR
-Fairfield Warde High School, Fairfield, CT
-MAY 2017
-  - Taught an introductory course on how to use a Linux Terminal as well as how to program in Python.
-  - Supported potential Computer Science students who sought guidance in their learning path.
 
 
 HELPFUL LINKS
