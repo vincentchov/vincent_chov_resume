@@ -32,7 +32,7 @@ PROFESSIONAL EXPERIENCE
 
 SOFTWARE ENGINEER
 Parametric Solutions, Inc. (PSI), Hartford, CT
-JUNE 2017 - PRESENT
+JUNE 2017 - DECEMBER 2018
   - Saved the QA department over $20,000 through automation of generating metrics.
   - Perform database migrations to use SQL Server and create a temporary Python/Flask front-end.
   - Package and deliver Python applications using PyInstaller and the Fabric build automation tool.
