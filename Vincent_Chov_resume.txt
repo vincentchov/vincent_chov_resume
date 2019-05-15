@@ -22,9 +22,9 @@ TECHNICAL SKILLS
 ================
 
   LANGUAGES:           Python, Java, JavaScript (Node.js), Bash, CSS, HTML
-  FREQUENTLY USED:     React, Linux, MySQL, Git, Flask, Bootstrap, Cisco WebEx, JQuery, SQL Server
-  WORKING KNOWLEDGE:   Android, C#, Django, JIRA, Selenium, Sass, Mercurial, Pandas, WordPress
-  EXPOSED TO / USED:   Docker, TypeScript, C, Haskell, Kubernetes, MongoDB, Redis
+  FREQUENTLY USED:     Docker, React, Linux, SQL, Git, Sass, Flask, Bootstrap, Cisco WebEx, JQuery
+  WORKING KNOWLEDGE:   Android, C#, Django, JIRA, Selenium, Mercurial, Pandas, WordPress
+  EXPOSED TO / USED:   Ansible, TypeScript, C, Haskell, Kubernetes, MongoDB, Redis
 
 PROFESSIONAL EXPERIENCE
 =======================
