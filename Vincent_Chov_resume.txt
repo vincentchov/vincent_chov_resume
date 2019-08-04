@@ -21,10 +21,10 @@ Non-degree with intent to apply courses towards Master of Liberal Arts, Software
 TECHNICAL SKILLS
 ================
 
-  LANGUAGES:           Python, Java, JavaScript (Node.js), Bash, CSS, HTML
-  FREQUENTLY USED:     Docker, React, Linux, SQL, Git, Sass, Flask, Bootstrap, Cisco WebEx, JQuery
-  WORKING KNOWLEDGE:   Android, C#, Django, JIRA, Selenium, Mercurial, Pandas, WordPress
-  EXPOSED TO / USED:   Ansible, TypeScript, C, Haskell, Kubernetes, MongoDB, Redis
+  LANGUAGES:           Python, Java, JavaScript (Node.js), C#, Bash, CSS, HTML
+  FREQUENTLY USED:     SQL, Docker, Flask, React, Linux, Git, Sass, Selenium, Bootstrap
+  WORKING KNOWLEDGE:   Django, Pandas, Android, JIRA, Mercurial, WordPress
+  EXPOSED TO / USED:   AWS, Ansible, TypeScript, C, Haskell, Kubernetes, MongoDB, Redis
 
 PROFESSIONAL EXPERIENCE
 =======================
@@ -43,7 +43,7 @@ Parametric Solutions, Inc. (PSI), Hartford, CT
 JUNE 2017 - DECEMBER 2018
   - Saved the QA department over $20,000 through automation of generating metrics.
   - Performed database migrations to use SQL Server and created a temporary Python/Flask front-end.
-  - Packaged and delivered Python applications using PyInstaller and the Fabric build automation tool.
+  - Deployed a web application for internal use on a Gunicorn server and Nginx reverse proxy, hosted on a Debian VPS.
 
 
 PROJECT/VOLUNTEER EXPERIENCE
