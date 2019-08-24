@@ -2,7 +2,7 @@ CONTACT INFORMATION
 ===================
 
 Vincent Chov
-(203) 543-3274
+(203) 307-5485
 vincent.chov@uconn.edu
 vincentchov.com/github
 
@@ -10,11 +10,11 @@ vincentchov.com/github
 EDUCATION
 =========
 
-UNIVERSITY OF CONNECTICUT, Storrs, CT
+University of Connecticut, Storrs, CT
 MAY 2017
 Bachelor of Science in Engineering, Computer Science and Engineering
 
-HARVARD UNIVERSITY, EXTENSION SCHOOL, Cambridge, MA
+Harvard University, Extension School, Cambridge, MA
 JANUARY 2019 - PRESENT
 Non-degree with intent to apply courses towards Master of Liberal Arts, Software Engineering
 
@@ -22,7 +22,7 @@ TECHNICAL SKILLS
 ================
 
   LANGUAGES:           Python, Java, JavaScript (Node.js), C#, Bash, CSS, HTML
-  FREQUENTLY USED:     SQL, Docker, Flask, React, Linux, Git, Sass, Selenium, Bootstrap
+  FREQUENTLY USED:     Microsoft SQL Server, Docker, Flask, React, Linux, Git, Sass, Selenium, Bootstrap
   WORKING KNOWLEDGE:   Django, Pandas, Android, JIRA, Mercurial, WordPress
   EXPOSED TO / USED:   AWS, Ansible, TypeScript, C, Haskell, Kubernetes, MongoDB, Redis
 
@@ -30,31 +30,31 @@ PROFESSIONAL EXPERIENCE
 =======================
 
 
-SOFTWARE ENGINEERING INTERN (FULL-TIME)
+Software Engineering Intern (Full-Time)
 NGP VAN, Somerville, MA
 FEBRUARY 2019 - APRIL 2019
-  - Enhanced legacy codebase to enable political campaigns to organize volunteers and fundraise.
+  - Enhanced legacy ASP.NET codebase to enable political campaigns to organize volunteers and fundraise.
   - Participated in a Scrum/Agile team to better refine project management processes.
   - Designed and built React/Redux applications to interface with HTTP APIs.
-  - Wrote Selenium unit tests for use in a Continuous Integration / Continuous Delivery (CI/CD) server.
+  - Ensured correctness and quality of ETL processes using Selenium unit tests.
 
-SOFTWARE ENGINEER
+Software Engineer
 Parametric Solutions, Inc. (PSI), Hartford, CT
 JUNE 2017 - DECEMBER 2018
   - Saved the QA department over $20,000 through automation of generating metrics.
-  - Performed database migrations to use SQL Server and created a temporary Python/Flask front-end.
-  - Deployed a web application for internal use on a Gunicorn server and Nginx reverse proxy, hosted on a Debian VPS.
+  - Developed an ETL-like process to enable a switch to using Microsoft SQL Server.
+  - Deployed a Flask API for internal use on a Gunicorn server and Nginx reverse proxy.
 
 
-PROJECT/VOLUNTEER EXPERIENCE
-============================
+OPEN SOURCE/VOLUNTEER EXPERIENCE
+================================
 
-FULL STACK DEVELOPER
+Full Stack Developer
 Hartford Underground, Remote
-JANUARY 2017 - PRESENT
-  - Improved Swing dance event coordination process by writing a web crawler with Selenium.
-  - Introduced PHP templating to maintain consistency of information across the website.
-  - Made their website mobile-friendly using responsive design.
+JANUARY 2017 - AUGUST 2019
+  - Automated portions of the event coordination process by writing a Selenium-based web crawler.
+  - Altered deployment scheme to enable the use of Git in management of configuration settings.
+  - Leveraged the Understrap framework to allow for the use of Bootstrap in WordPress.
 
 
 HELPFUL LINKS
