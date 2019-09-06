@@ -13,10 +13,11 @@ EDUCATION
 University of Connecticut, Storrs, CT
 MAY 2017
 Bachelor of Science in Engineering, Computer Science and Engineering
+Senior Design Project: "Android Security Risk Assessment" (Co-Leader of Team, Java/Android Developer)
 
 Harvard University, Extension School, Cambridge, MA
 JANUARY 2019 - PRESENT
-Non-degree with intent to apply courses towards Master of Liberal Arts, Software Engineering
+Presently taking two courses to apply towards Master of Liberal Arts, Software Engineering
 
 TECHNICAL SKILLS
 ================
